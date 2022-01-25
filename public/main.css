@@ -78,6 +78,18 @@ body {
   line-height: 1.75;
 }
 
+footer {
+  font-family: var(--headingFont);
+  width: 100%;
+  padding: 1rem 0;
+  background: var(--clr-primary-5);
+  color: var(--white);
+  text-align: center;
+  font-size: 0.75rem;
+  bottom: 0;
+  left: 0;
+}
+
 p {
   margin-bottom: 1.5rem;
   max-width: 40em;
