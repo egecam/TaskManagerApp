@@ -10,6 +10,8 @@
 
 This project is a simple todo list web application. I've developed this project to improve my abilities to development with NoSQL DB, APIs and MVC pattern.
 
+I used MongoDB Atlas for NoSQL database and Mongoose for DB connection.
+
 ## Technologies
 Project is created with:
 
