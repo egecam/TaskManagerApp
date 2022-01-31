@@ -9,3 +9,10 @@
 ## General info
 
 This project is a simple todo list web application. I've developed this project to improve my abilities to development with NoSQL DB, APIs and MVC pattern.
+
+## Technologies
+Project is created with:
+
+- NodeJS version: 17.3.0
+- Express version: 4.17.1
+- Mongoose version: 6.1.7
