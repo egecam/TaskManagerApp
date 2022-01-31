@@ -31,3 +31,6 @@ $ npm install mongoose
 $ npm start
 ```
 
+## Inspiration
+
+This app is based on NodeJS [tutorial](https://www.youtube.com/watch?v=qwfE7fSVaZM&t=4581s) from [@john-smilga](https://www.github.com/john-smilga). Thanks John Smilga for providing the assets for frontend part.
